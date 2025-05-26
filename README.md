@@ -1,6 +1,7 @@
 # 🎮 Tetris Game in C++ with Custom Graphics
 
 This is a modified version of the [educ8s Tetris game](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib), built using C++ and raylib.
+
 🧑‍💻 Part of my **3rd semester Computer Graphics lab project**.
 ### 🛠️ Key Differences
 - Replaced raylib's drawing functions with:
